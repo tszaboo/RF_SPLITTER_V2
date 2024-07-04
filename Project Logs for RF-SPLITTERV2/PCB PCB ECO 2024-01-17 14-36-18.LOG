@@ -1,0 +1,165 @@
+Removed Pin From Net: NetName=GND Pin=J5-1
+Removed Pin From Net: NetName=GND Pin=J7-2
+Removed Pin From Net: NetName=GND Pin=J7-3
+Removed Pin From Net: NetName=GND Pin=J8-2
+Removed Pin From Net: NetName=GND Pin=J8-3
+Removed Pin From Net: NetName=GND Pin=J9-2
+Removed Pin From Net: NetName=GND Pin=J9-3
+Removed Pin From Net: NetName=GND Pin=J10-2
+Removed Pin From Net: NetName=GND Pin=J10-3
+Removed Pin From Net: NetName=GND Pin=J11-2
+Removed Pin From Net: NetName=GND Pin=J11-3
+Removed Pin From Net: NetName=GND Pin=J12-2
+Removed Pin From Net: NetName=GND Pin=J12-3
+Removed Pin From Net: NetName=GND Pin=J13-2
+Removed Pin From Net: NetName=GND Pin=J13-3
+Removed Pin From Net: NetName=GND Pin=J14-2
+Removed Pin From Net: NetName=GND Pin=J14-3
+Removed Pin From Net: NetName=GND Pin=J15-2
+Removed Pin From Net: NetName=GND Pin=J15-3
+Removed Pin From Net: NetName=GND Pin=J16-2
+Removed Pin From Net: NetName=GND Pin=J16-3
+Removed Pin From Net: NetName=GND Pin=J17-2
+Removed Pin From Net: NetName=GND Pin=J17-3
+Removed Pin From Net: NetName=GND Pin=J18-2
+Removed Pin From Net: NetName=GND Pin=J18-3
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=NetJ4_1 Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=GND Pin=R6-2
+Removed Pin From Net: NetName=NetJ6_1 Pin=R7-1
+Removed Pin From Net: NetName=GND Pin=R9-1
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Pin From Net: NetName=GND Pin=R14-1
+Removed Pin From Net: NetName=GND Pin=R15-1
+Removed Member From Class: ClassName=SCH Member=J7
+Removed Member From Class: ClassName=SCH Member=J8
+Removed Member From Class: ClassName=SCH Member=J9
+Removed Member From Class: ClassName=SCH Member=J10
+Removed Member From Class: ClassName=SCH Member=J11
+Removed Member From Class: ClassName=SCH Member=J12
+Removed Member From Class: ClassName=SCH Member=J13
+Removed Member From Class: ClassName=SCH Member=J14
+Removed Member From Class: ClassName=SCH Member=J15
+Removed Member From Class: ClassName=SCH Member=J16
+Removed Member From Class: ClassName=SCH Member=J17
+Removed Member From Class: ClassName=SCH Member=J18
+Removed Member From Class: ClassName=SCH Member=R7
+Removed Member From Class: ClassName=SCH Member=R8
+Removed Member From Class: ClassName=SCH Member=R9
+Removed Member From Class: ClassName=SCH Member=R10
+Removed Member From Class: ClassName=SCH Member=R11
+Removed Member From Class: ClassName=SCH Member=R12
+Removed Member From Class: ClassName=SCH Member=R13
+Removed Member From Class: ClassName=SCH Member=R14
+Removed Member From Class: ClassName=SCH Member=R15
+Change Component Footprint: Designator=R1 Old Footprint=RESC0603N New Footprint=RESC0402N
+Change Component Footprint: Designator=R2 Old Footprint=RESC0603N New Footprint=RESC0402N
+Change Component Footprint: Designator=R3 Old Footprint=RESC0603N New Footprint=RESC0402N
+Change Component Footprint: Designator=R4 Old Footprint=RESC0603N New Footprint=RESC0402N
+Change Component Footprint: Designator=R5 Old Footprint=RESC0603N New Footprint=RESC0402N
+Change Component Footprint: Designator=R6 Old Footprint=RESC0603N New Footprint=RESC0402N
+Change Component Footprint: Designator=J4 Old Footprint=UFL_CAOAX New Footprint=60312202111527
+Change Component Footprint: Designator=J5 Old Footprint=UFL_CAOAX New Footprint=60312202111527
+Change Component Footprint: Designator=J6 Old Footprint=UFL_CAOAX New Footprint=60312202111527
+Change Component Comment : Designator=J4 Old Comment=COAX_TP New Comment=60312202111527
+Change Component Comment : Designator=J5 Old Comment=COAX_TP New Comment=60312202111527
+Change Component Comment : Designator=J6 Old Comment=COAX_TP New Comment=60312202111527
+Change Managed Component Library Link : Designator=J4 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=DFC63434-9955-4E92-99B3-66CADADF11AF Old RevisionGUID= New RevisionGUID=BEC3D794-E42B-4F25-AE27-ED1B4E7301E8
+Change Managed Component Library Link : Designator=J5 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=DFC63434-9955-4E92-99B3-66CADADF11AF Old RevisionGUID= New RevisionGUID=BEC3D794-E42B-4F25-AE27-ED1B4E7301E8
+Change Managed Component Library Link : Designator=J6 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=DFC63434-9955-4E92-99B3-66CADADF11AF Old RevisionGUID= New RevisionGUID=BEC3D794-E42B-4F25-AE27-ED1B4E7301E8
+Change component parameters: Designator = "J4" ("J4"); Footprint = "UFL_CAOAX"; UniqueID = "\XDITHDAG" ("\XDITHDAG")
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "SMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "50O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insertion Loss (dB)"; Value = "0.14dB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Material"; Value = "PTFE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "5GO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "165°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-65°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "134708250"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J5" ("J5"); Footprint = "UFL_CAOAX"; UniqueID = "\UCIHRBXA" ("\UCIHRBXA")
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "SMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "50O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insertion Loss (dB)"; Value = "0.14dB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Material"; Value = "PTFE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "5GO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "165°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-65°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "134708250"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J6" ("J6"); Footprint = "UFL_CAOAX"; UniqueID = "\YLDZJHSW" ("\YLDZJHSW")
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "SMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "50O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insertion Loss (dB)"; Value = "0.14dB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Material"; Value = "PTFE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "5GO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "165°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-65°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "134708250"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RESC0603N"; UniqueID = "\BYFAGNRG" ("\BYFAGNRG")
+Change component parameters (AddParameter): Name = "COMPATIBLES"; Value = "F1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "VISHAY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "CRCW040216R5FKED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NoPins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SCH"; Value = "16.5R 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "541-16.5LCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "16.5R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESC0603N"; UniqueID = "\NKUSAMHR" ("\NKUSAMHR")
+Change component parameters (AddParameter): Name = "COMPATIBLES"; Value = "F1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "VISHAY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "CRCW040216R5FKED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NoPins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SCH"; Value = "16.5R 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "541-16.5LCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "16.5R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RESC0603N"; UniqueID = "\EZUGDGSO" ("\EZUGDGSO")
+Change component parameters (AddParameter): Name = "COMPATIBLES"; Value = "F1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "VISHAY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "CRCW040216R5FKED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NoPins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SCH"; Value = "16.5R 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "541-16.5LCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "16.5R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RESC0603N"; UniqueID = "\MMAZJWVW" ("\MMAZJWVW")
+Change component parameters (AddParameter): Name = "#JLCPCB"; Value = "C25120"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "B/E"; Value = "B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF"; Value = "Uniroyal Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFCODE"; Value = "0402WGF499JTCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "'0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RESC0603N"; UniqueID = "\ZYIQEHTP" ("\ZYIQEHTP")
+Change component parameters (AddParameter): Name = "#JLCPCB"; Value = "C25120"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "B/E"; Value = "B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF"; Value = "Uniroyal Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFCODE"; Value = "0402WGF499JTCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "'0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RESC0603N"; UniqueID = "\WGHDVBDC" ("\WGHDVBDC")
+Change component parameters (AddParameter): Name = "#JLCPCB"; Value = "C25120"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "B/E"; Value = "B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF"; Value = "Uniroyal Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFCODE"; Value = "0402WGF499JTCE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "'0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "49R9"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=GND Pin=J4-5
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J5-5
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J6-5
+Added Pin To Net: NetName=NetJ6_1 Pin=R4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=R5-1
+Added Pin To Net: NetName=NetJ6_1 Pin=R6-1
+Added Pin To Net: NetName=NetJ4_1 Pin=R6-2
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=R4-2
+Added Pin To Net: NetName=NetJ5_1 Pin=R5-2
+Added Net: Name=NetJ5_1
